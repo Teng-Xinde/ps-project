@@ -1,0 +1,207 @@
+.header .header_b ul li.first a {
+    border: none !important;
+    color: #fff !important;
+    height: 97px !important;
+}
+
+.header .header_b ul li.four a {
+    border-bottom: 2px solid #c1926c !important;
+    height: 95px !important;
+    color: #c1926c !important;
+}
+
+.header .spinner2 ul li.first dd.finally a {
+    color: #c1926c !important;
+}
+
+.banner {
+    margin: 0 auto;
+    width: 1519.2px;
+    height: 237px;
+    position: relative;
+    top: 97px;
+    margin-bottom: 10px;
+}
+
+
+.industry {
+    width: 950px;
+    height: 2150px;
+    margin: 0 auto;
+    margin-top: 150px;
+    margin-bottom: 20px;
+    font-family: "微软雅黑";
+    color: #3e3a39;
+    position: relative;
+}
+
+.nav {
+    width: 157px;
+    height: 186px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.nav ul {
+    list-style: none;
+}
+
+.nav ul li a {
+    display: block;
+    font-size: 14px;
+    text-align: center;
+    text-decoration: none;
+    width: 156px;
+    height: 37px;
+    line-height: 37px;
+    color: #3e3a39;
+    border-bottom: 1px solid rgb(200, 200, 200);
+}
+
+.nav ul li.first a {
+    background: url(../imgas/背景.png) center right no-repeat;
+    color: #c8a062;
+    border-top: 1px solid rgb(200, 200, 200);
+}
+
+.industry .farming {
+    width: 718px;
+    height: 2150px;
+    position: absolute;
+    top: 10px;
+    right: 0px;
+}
+
+.industry .farming1 {
+    width: 718px;
+    height: 392px;
+    position: relative;
+}
+
+.farming1 .title {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 718px;
+    height: 23px;
+    border: 1px solid rgb(200, 200, 200);
+    position: relative;
+    margin-bottom: 20px;
+}
+
+.farming1 .title h1 {
+    position: absolute;
+    bottom: 10px;
+    left: 5px;
+    width: 158px;
+    height: 25px;
+    font-size: 25px;
+    background-color: #fff;
+    line-height: 25px;
+    text-align: center;
+    font-weight: 500;
+}
+
+.farming1 p {
+    font-size: 14px;
+    margin: 35px 0px 10px 0px;
+}
+
+.farming2 {
+    width: 718px;
+    height: 340px;
+    margin-top: 50px;
+}
+
+.farming2 h1 {
+    width: 718px;
+    height: 17px;
+    font-size: 19px;
+    margin: 23px 0px;
+    font-weight: 500;
+}
+
+.farming2 p {
+    width: 718px;
+    height: 60px;
+    font-size: 14px;
+}
+
+.farming3 {
+    width: 714px;
+    height: 412px;
+    position: relative;
+    margin-top: 50px;
+}
+
+.farming3 h1 {
+    width: 718px;
+    height: 40px;
+    font-size: 19px;
+    line-height: 40px;
+    font-weight: 500;
+}
+
+.farming3 p {
+    width: 718px;
+    font-size: 14px;
+    margin: 10px 0px 10px 0px;
+    line-height: 25px;
+}
+
+.farming4 {
+    width: 718px;
+    height: 412px;
+    position: relative;
+    margin-top: 50px;
+}
+
+.farming4 h1 {
+    width: 718px;
+    height: 50px;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 50px;
+}
+
+.farming4 p {
+    width: 718px;
+    line-height: 25px;
+    font-size: 14px;
+margin: 20px 0px 20px 0px;
+}
+
+.farming5 {
+    width: 718px;
+    height: 343px;
+    position: relative;
+    margin-top: 50px;
+}
+
+.farming5 h1 {
+    width: 718px;
+    height: 40px;
+    font-size: 19px;
+    line-height: 40px;
+    font-weight: 500;
+    position: absolute;
+    top: 10px;
+    left: 0px;
+}
+
+.farming5 p {
+    width: 222px;
+    height: 307px;
+    font-size: 14px;
+    position: absolute;
+    top: 60px;
+    left: 0px;
+    line-height: 22px;
+}
+
+.farming5 img {
+    position: absolute;
+    top: 60px;
+    right: 0px;
+}

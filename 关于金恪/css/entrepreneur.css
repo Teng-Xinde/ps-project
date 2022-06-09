@@ -1,0 +1,69 @@
+.header .header_b ul li.first a {
+    border: none !important;
+    color: #fff !important;
+    height: 97px !important;
+}
+
+.header .header_b ul li.two a {
+    border-bottom: 2px solid #c1926c !important;
+    height: 95px !important;
+    color: #c1926c !important;
+}
+
+.header .spinner1 ul li.finally a {
+    color: #c1926c !important;
+}
+
+.banner {
+    margin: 0 auto;
+    width: 1519.2px;
+    height: 430px;
+    position: relative;
+    top: 97px;
+    margin-bottom:10 px;
+}
+
+
+.course {
+    width: 880px;
+    height: 567px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    font-family: "微软雅黑";
+}
+
+.course .title {
+    width: 880px;
+    height: 23px;
+    border: 1px solid #caa574;
+    border-left: none !important;
+    position: relative;
+}
+
+.course .title h1 {
+    color: #caa574;
+    background-color: white;
+    font-size: 32px;
+    font-weight: 500;
+    position: absolute;
+    left: 0px;
+    top: -28px;
+}
+
+.course p {
+    font-size: 14px;
+    line-height: 26px;
+    margin-top: 20px;
+    font-weight: 400;
+}
+
+.course .product {
+    text-align: center;
+    margin-top: 20px;
+}
+.course .product img.img1{
+    margin-bottom: 10px;
+}
+.course .product img.img2{
+    margin-right: 7px;
+}

@@ -1,0 +1,163 @@
+.header .header_b ul li.first a {
+    border: none !important;
+    color: #fff !important;
+    height: 97px !important;
+}
+
+.header .header_b ul li.six a {
+    border-bottom: 2px solid #c1926c !important;
+    height: 95px !important;
+    color: #c1926c !important;
+}
+
+.banner {
+    margin: 0 auto;
+    width: 1519.2px;
+    height: 280px;
+    position: relative;
+    top: 97px;
+    margin-bottom: 10px;
+}
+
+
+.talents {
+    width: 960px;
+    height: 1600px;
+    margin: 0 auto;
+    margin-top: 140px;
+    font-family: "微软雅黑";
+}
+
+.talents h1 {
+    width: 960px;
+    height: 28px;
+    text-align: center;
+    font-size: 27px;
+    color: #3e3a39;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.talents .idea {
+    width: 960px;
+}
+
+.talents .idea ul {
+    list-style: none;
+}
+
+.talents .idea ul li {
+    width: 960px;
+    height: 205px;
+    margin-bottom: 4px;
+}
+
+.talents .idea ul li img {
+    width: 567px;
+    height: 205px;
+    margin-right: 3px;
+    float: left;
+}
+
+.talents .idea ul li .idea_c {
+    float: left;
+    width: 379px;
+    height: 205px;
+    margin-right: 3px;
+    position: relative;
+    background: #e2e3e3;
+}
+
+.talents .idea ul li .content {
+    width: 270px;
+    position: absolute;
+    top: 30px;
+    left: 45px;
+}
+
+.talents .idea ul li .content p {
+    width: 270px;
+    height: 40px;
+    font-size: 20px;
+    line-height: 40px;
+    color: #bf906c;
+    font-weight: 800;
+}
+
+.demand {
+    width: 950px;
+    height: 750px;
+    font-family: "微软雅黑";
+    color: #3e3a39;
+    margin: 0 auto;
+    position: relative;
+}
+
+.demand h1 {
+    height: 27px;
+    font-size: 27px;
+    width: 1518px;
+    text-align: center;
+    position: absolute;
+    top: 0px;
+    left: 50%;
+    border-bottom: 1px solid rgb(220, 220, 220);
+    margin-left: -759px;
+    padding-bottom: 14px;
+    font-weight: 500;
+}
+
+.demand .manager_l {
+    position: absolute;
+    left: 0px;
+    top: 65px;
+    width: 480px;
+    height: 632px;
+    border-right: 1px solid #c0916c;
+}
+
+.demand .manager_l h2,
+.demand .manager_r h2 {
+    color: #c0916c;
+    font-size: 19px;
+    margin-bottom: 17px;
+    margin-left: 26px;
+    width: 420px;
+    height: 18.4px;
+}
+
+.demand .manager_l p,
+.demand .manager_r p {
+    width: 425px;
+    margin-left: 26px;
+    font-size: 14px;
+    line-height: 25px;
+    margin-bottom: 6px;
+    font-size: 14px;
+}
+
+.demand .manager_l p span,
+.demand .manager_r p span {
+    display: inline-block;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    background: #c0916c;
+    margin-right: 5px;
+}
+
+.demand .manager_l h3,
+.demand .manager_r h3 {
+    width: 410px;
+   margin: 7px 0px 7px 26px;
+    height: 28px;
+    font-size: 18px;
+}
+
+.demand .manager_r {
+    position: absolute;
+    left: 480px;
+    top: 65px;
+    width: 468px;
+    height: 632px;
+}

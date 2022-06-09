@@ -1,0 +1,104 @@
+.header .header_b ul li.first a {
+    border: none !important;
+    color: #fff !important;
+    height: 97px !important;
+}
+
+.header .header_b ul li.five a {
+    border-bottom: 2px solid #c1926c !important;
+    height: 95px !important;
+    color: #c1926c !important;
+}
+
+.header .spinner3 ul li.first a{
+    color: #c1926c !important;
+}
+
+.banner {
+    margin: 0 auto;
+    width: 1519.2px;
+    height: 430px;
+    position: relative;
+    top: 97px;
+    margin-bottom: 10px;
+}
+
+.culture {
+    width: 870px;
+    margin: 0 auto;
+    height: 700px;
+    font-family: "微软雅黑";
+}
+
+.culture .title {
+    height: 23px;
+    width: 870px;
+    position: relative;
+    border: 1px solid #c1926c;
+    border-left: none;
+}
+
+.culture .title h1 {
+    position: absolute;
+    left: 0px;
+    top: -22px;
+    width: 101px;
+    color: #c8996c;
+    font-size: 25px;
+    background: #ffffff;
+    height: 25px;
+    font-weight: 500;
+}
+
+.culture .character {
+    width: 870px;
+    height: 43px;
+    padding: 16px 0px 45px 0px;
+    color: #3e3a39;
+    font-size: 12.5px;
+}
+
+.culture ul {
+    list-style: none;
+    width: 870px;
+    height: 260px;
+}
+
+.culture ul li {
+    float: left;
+    font-size: 15.8px;
+    text-align: center;
+    color: #3e3a39;
+}
+
+.culture ul li.first {
+    width: 95px;
+    height: 181px;
+    margin: 0px 110px 0px 80px;
+}
+
+.culture ul li.two {
+    width: 64px;
+    height: 181px;
+    margin: 0px 110px 0px 0px;
+}
+
+.culture ul li.three {
+    width: 111px;
+    height: 181px;
+    margin: 0px 110px 0px 0px;
+}
+
+.culture ul li.finally {
+    width: 111px;
+    height: 181px;
+    margin: 0px 80px 0px 0px;
+}
+
+.culture ul li h2 {
+    font-size: 19px;
+    height: 24px;
+    margin: 11px 0px 16px;
+    color: #c8a062;
+    font-weight: 500;
+}

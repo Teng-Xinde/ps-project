@@ -1,0 +1,62 @@
+.header .header_b ul li.first a {
+    border: none !important;
+    color: #fff !important;
+    height: 97px !important;
+}
+
+.header .header_b ul li.five a {
+    border-bottom: 2px solid #c1926c !important;
+    height: 95px !important;
+    color: #c1926c !important;
+}
+
+.header .spinner3 ul li.finally a {
+    color: #c1926c !important;
+}
+
+.banner {
+    margin: 0 auto;
+    width: 1519.2px;
+    height: 279px;
+    position: relative;
+    top: 97px;
+    margin-bottom: 10px;
+}
+
+.culture {
+    width: 870px;
+    margin: 0 auto;
+    height: 610px;
+    font-family: "微软雅黑";
+    margin-top: 150px;
+}
+
+.culture .title {
+    height: 23px;
+    width: 870px;
+    position: relative;
+    border: 1px solid #c1926c;
+    border-left: none;
+}
+
+.culture .title h1 {
+    position: absolute;
+    left: 0px;
+    top: -22px;
+    width: 126px;
+    color: #c8996c;
+    font-size: 25px;
+    background: #ffffff;
+    height: 25px;
+    font-weight: 500;
+}
+
+.culture p {
+    width: 862px;
+    height: 50px;
+    margin: 15px 0px 15px 0px;
+    font-size: 14px;
+}
+.culture img{
+    margin-top: 15px;
+}

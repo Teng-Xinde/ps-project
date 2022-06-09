@@ -1,0 +1,114 @@
+.header .header_b ul li.first a {
+    border: none !important;
+    color: #fff !important;
+    height: 97px !important;
+}
+
+.header .header_b ul li.four a {
+    border-bottom: 2px solid #c1926c !important;
+    height: 95px !important;
+    color: #c1926c !important;
+}
+
+.banner {
+    margin: 0 auto;
+    width: 1525.2px;
+    height: 283px;
+    position: relative;
+    top: 97px;
+    margin-bottom: 150px;
+    overflow: hidden;
+}
+
+.banner .banner_c ol {
+    list-style: none;
+    width: 500000px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+
+.banner .banner_c ol li {
+    float: left;
+}
+
+.banner .button {
+    bottom: 5px;
+    position: absolute;
+    left: 50%;
+    margin-left: -85px;
+  
+}
+
+.banner .button ul {
+    list-style: none;
+}
+
+.banner .button ul li {
+    float: left;
+    padding: 9px 3px;
+    margin-right: 5px;
+    cursor: pointer;
+}
+
+.banner .button ul li button {
+    display: block;
+    background-color: rgba(150, 150, 150, 0.8);
+    width: 23.7px;
+    height: 1.7px;
+    border: none;
+}
+
+.banner .button ul li.first button {
+    background-color: rgb(255, 255, 255);
+}
+
+
+.industry {
+    width: 947px;
+    height: 440px;
+    margin: 0 auto;
+    margin-bottom: 40px;
+    font-family: "微软雅黑";
+}
+
+.industry .title {
+    width: 947px;
+    height: 23px;
+    border: 1px solid rgb(200, 200, 200);
+    border-left: none !important;
+    position: relative;
+}
+
+.industry .title h1 {
+    color: #3e3a39;
+    background-color: white;
+    font-size: 25px;
+    font-weight: 500;
+    width: 126px;
+    height: 25px;
+    position: absolute;
+    left: 0px;
+    top: -20px;
+}
+
+.industry p {
+    font-size: 14px;
+    line-height: 26px;
+    margin: 35px 0px;
+    font-weight: 400;
+}
+
+.industry ul {
+    width: 958px;
+    list-style: none;
+}
+
+.industry ul li {
+    float: left;
+    margin-right: 8.8px;
+}
+
+.industry ul li.finally {
+    margin: 0 !important;
+}
